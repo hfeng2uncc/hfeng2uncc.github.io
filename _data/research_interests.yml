@@ -2,7 +2,7 @@ contents:
   - title: Mathematical Artificial Intelligence and Data Science
     items:
       - label: 'Topological and geometric data analysis:'
-        body: 'Persistent Laplacians, persistent homology, and geometric representations of data'
+        body: 'Persistent combinatorial Laplacians, persistent sheaf Laplacian, persistent local Laplacian, persistent directed flag Laplacian, persistent homology, and geometric representations of data'
       - label: 'Mathematical representations:'
         body: 'Commutative algebra, knot data analysis, and multiscale differential geometry'
       - label: 'Machine learning:'
