@@ -11,6 +11,9 @@ news: false
 selected_papers: false
 social: false
 ---
+<img src="{{ '/assets/img/hongsong-feng.jpg' | relative_url }}"
+     alt="Hongsong Feng"
+     style="float: right; width: 200px; max-width: 40%; height: auto; margin: 0 0 1rem 1.5rem; border-radius: 0.25rem;">
 I am an Assistant Professor in the Department of Mathematics and Statistics at the University of North Carolina at Charlotte. Before joining UNC Charlotte, I worked with [Prof. Guo-Wei Wei](https://users.math.msu.edu/users/weig/) in the Department of Mathematics at Michigan State University. I received my Ph.D. in Mathematics from the University of Alabama in 2021, supervised by [Prof. Shan Zhao](https://szhao.people.ua.edu/).
 
 My research bridges mathematics, artificial intelligence, and biology. I develop mathematical and computational methods, including topological and geometric data analysis and machine learning, to study biomolecular structures and interactions and address challenges in drug discovery.
