@@ -9,7 +9,7 @@ A full list of publications is available on [Google Scholar](https://scholar.goo
 
 ### Selected publications
 
-- Jian Liu and Hongsong Feng. [Persistent local Laplacian prediction of protein-ligand binding affinities](https://arxiv.org/abs/2603.21503). *arXiv*, 2026.
+- Jian Liu and Hongsong Feng. [Persistent local Laplacian prediction of protein-ligand binding affinities](https://pubs.acs.org/jcisd8/article/66/18/11767/5421797). *Journal of Chemical Information and Modeling*, 2026.
 - Hongsong Feng, Faisal Suwayyid, Mushal Zia, JunJie Wee, Yuta Hozumi, Chunlong Chen, and Guo-Wei Wei. [CAML: Commutative algebra machine learning — a case study on protein-ligand binding affinity prediction](https://doi.org/10.1021/acs.jcim.5c00940). *Journal of Chemical Information and Modeling*, 2025.
 - Hongsong Feng, Li Shen, Jian Liu, and Guo-Wei Wei. [Mayer homology learning prediction of protein-ligand binding affinities](https://doi.org/10.1142/S2737416524500613). *Journal of Computational Biophysics and Chemistry*, 2024.
 - Li Shen, Hongsong Feng, Fengling Li, Fengchun Lei, Jie Wu, and Guo-Wei Wei. [Knot data analysis using multiscale Gauss link integral](https://doi.org/10.1073/pnas.2408431121). *PNAS*, 2024. (Co-first authors: Li Shen and Hongsong Feng.)
