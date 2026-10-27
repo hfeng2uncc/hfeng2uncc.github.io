@@ -78,3 +78,7 @@ footer.fixed-bottom a {
 footer.fixed-bottom a:hover {
   color: var(--global-theme-color) !important;
 }
+
+.navbar.navbar-light .navbar-brand.social a i::before {
+  color: var(--global-text-color);
+}
