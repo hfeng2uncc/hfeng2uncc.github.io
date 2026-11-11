@@ -8,7 +8,7 @@ nav_order: 3
 ### University of North Carolina at Charlotte
 
 - Numerical Linear Algebra, Fall 2026
-- Calculus II, Spring 2026
+- Calculus II, Spring 2026, Fall 2026
 - Calculus I, Fall 2025
 
 ### Michigan State University
